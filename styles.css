@@ -1,0 +1,74 @@
+body{
+  background: black;
+  font-family: helvetica, arial, sans-serif;
+  color: yellow;
+  margin: 0;
+}
+img{
+  width: 40%;
+}
+
+.cover{
+  background-image: url(images/collage-spotify.png);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  margin: 1%;
+}
+
+h2{text-align: center;}
+
+
+a{
+
+ color: orange;
+ text-decoration: none;
+}
+h3{
+  color: blue;
+  text-align: center;
+}
+
+p{text-align: center;}
+.center{
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+h1{
+  border: purple 3px solid;
+}
+
+h2{
+  border: purple 3px solid;
+}
+
+a{
+  border: red 2px solid;
+}
+
+body{
+  border: black 4px solid;
+  margin: 0;
+}
+
+ol{
+  border: white 2px solid;
+  padding: 2%;
+  margin: auto;
+  width: 80%;
+}
+
+li{
+  border-bottom: white 2px solid;
+  padding: 5px;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
